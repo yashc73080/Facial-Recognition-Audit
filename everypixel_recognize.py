@@ -8,7 +8,7 @@ load_dotenv('.env')
 client_id = os.getenv('CLIENT_KEY')
 client_secret = os.getenv('SECRET_KEY')
 
-image_path = 'images/face13.jpg'
+image_path = 'images/face10.jpg'
 
 with open(image_path, 'rb') as f:
     files = {'data': f}
