@@ -29,3 +29,6 @@ with open(image_path, 'rb') as f:
 
 print(json.dumps(keywords, indent=4))
 print(json.dumps(faces, indent=4))
+
+# https://labs.everypixel.com/account/image_keywording
+# https://labs.everypixel.com/account/age_recognition
