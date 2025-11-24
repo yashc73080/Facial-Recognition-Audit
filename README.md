@@ -1,1 +1,1 @@
-# Azure-Facial-Recognition-Audit
+# Facial-Recognition-Audit
